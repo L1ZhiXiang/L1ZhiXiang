@@ -1,0 +1,21 @@
+## Hi there 👋  I'm L1ZhiXiang(李智祥).
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
+
+### 👨🏻‍💻 About Me 
+
+- 🔭 I’m currently learning C++ and Go.
+- 🤔 Exploring new technologies and developing software solutions and database kernel.
+- 🎓 Studying Computer Science and computer programming.
+- 💼 Strive to be an excellent database kernel developer.
+- 🌱 Love life and full of hope.
+- ✍️ Watching movie and observe latest design trends as hobbies/side hustles.
+- ☕ I belive, a perfect cup of coke can be the ultimate solution for any stress.
+
+
+### 🛠 Tech Stack
+
+- 💻 C++ | Go | Python  
+- 🌐 TiDB | OceanBase | PolarDB | TDSQL | openGauss
+- 🛢  MySQL | PostgreSQL | Redis
+- 🔧 Visual Studio code | Pycharm | Git
